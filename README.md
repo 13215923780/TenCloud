@@ -4,13 +4,12 @@
 # 管理
 * 需求文档：https://workflowy.com/
 * 设计文件：蓝湖 - https://lanhuapp.com
-* 原型设计：<br>
-        * 墨刀 - https://pro.modao.cc/ （设计使用）  + <br>
-        * AXure - 产品提供一些建议性页面参考<br>
-        
+* 原型设计：
+	* 墨刀 - https://pro.modao.cc/ （设计使用）  + 
+	* AXure - 产品提供一些建议性页面参考  
 * 任务跟踪：<br>
-        * 产品计划 - workflowy的todoList <br>
-        * 实际跟踪 - https://tower.im <br>
+	* 产品计划 - workflowy的todoList
+	* 实际跟踪 - https://tower.im 
         
 
 # 技术
